@@ -9,7 +9,7 @@ App = function()
     this.load = function()
     {
         wade.loadImage('https://contenidoscrh.github.io/con/images/back2.jpg');
-        wade.loadImage('https://crh-concentrese.googlecode.com/git/images/a1.jpg');
+        wade.loadImage('https://contenidoscrh.github.io/con/images/images/a1.jpg');
         wade.loadImage('https://crh-concentrese.googlecode.com/git/images/a2.jpg');
         wade.loadImage('https://crh-concentrese.googlecode.com/git/images/b1.jpg');
         wade.loadImage('https://crh-concentrese.googlecode.com/git/images/b2.jpg');
