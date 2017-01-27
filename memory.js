@@ -111,7 +111,7 @@ App = function()
                             {
                                 wade.clearScene();
                                 wade.app.init();
-                            }, 4000);
+                            }, 20000);
                         }
                     }
                     else
